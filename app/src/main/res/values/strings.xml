@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">RecyclerViewFeature</string>
+    <string name="app_name">RecyclerView Demo</string>
+
+    <string name="md_to_rv_page">RecyclerView Demo</string>
+
+    <string name="md_del_item">Delete item</string>
+
+    <string name="md_add_item">Add item</string>
+
+    <string name="md_linear_rv">Linear RecyclerView</string>
+
+    <string name="md_grid_rv">Grid RecyclerView</string>
+
+    <string name="md_staggered_rv">Staggered RecyclerView</string>
 </resources>
