@@ -1,4 +1,4 @@
-package com.example.kingauthur.recyclerviewfeature;
+package com.raywenderlich.galacticon;
 
 import org.junit.Test;
 

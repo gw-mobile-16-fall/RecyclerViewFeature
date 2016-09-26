@@ -1,15 +1,7 @@
 <resources>
-    <string name="app_name">RecyclerView Demo</string>
+  <string name="app_name">Galacticon</string>
+  <string name="api_key">Sw58TXEH9K1cMWohvfnHsXa4IfR6Z7XPalagwpRy</string>
 
-    <string name="md_to_rv_page">RecyclerView Demo</string>
-
-    <string name="md_del_item">Delete item</string>
-
-    <string name="md_add_item">Add item</string>
-
-    <string name="md_linear_rv">Linear RecyclerView</string>
-
-    <string name="md_grid_rv">Grid RecyclerView</string>
-
-    <string name="md_staggered_rv">Staggered RecyclerView</string>
+  <string name="title_activity_fullscreen">FullscreenActivity</string>
+  <string name="change_layout_manager">Change Layout</string>
 </resources>
